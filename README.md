@@ -4,9 +4,8 @@ Projekt inteligentnego pojazdu gąsienicowego/kołowego z napędem **4x4**, opar
 
 ---
 
-## 📸 Wygląd Projektu
-*Tutaj możesz umieścić zdjęcie swojego gotowego robota!*
-(zdjecie_robota.jpg)
+## 📸 Prezentacja auta
+(IMG_4533.JPG)
 
 ---
 
