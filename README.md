@@ -10,6 +10,10 @@ Projekt  pojazdu z napędem **4x4**, opartego na platformie **Arduino Uno**. Poj
 
 ---
 
+## Schemat
+<img src="schematic.png" alt="auto" width="30%">
+
+---
 ## 🛠️ Funkcje Projektu
 * **Pełny napęd 4x4** – sterowany za pomocą wydajnego mostka H (L298N).
 * **Podwójny wyłącznik awaryjny (Safety First):**
