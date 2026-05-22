@@ -5,7 +5,8 @@ Projekt  pojazdu z napędem **4x4**, opartego na platformie **Arduino Uno**. Poj
 ---
 
 ## 📸 Prezentacja auta
-<img src="IMG_4533.JPG" alt="auto" width="50%">
+<img src="project_photo1.jpg" alt="auto" width="50%">
+<img src="project_photo0.jpg" alt="auto" width="50%">
 
 ---
 
