@@ -1,11 +1,11 @@
 # 🚗 Projekt Samochodu 4x4 z Podwójną Blokadą Awaryjną i LCD
 
-Projekt inteligentnego pojazdu gąsienicowego/kołowego z napędem **4x4**, opartego na platformie **Arduino Uno**. Pojazd posiada zaawansowany system bezpieczeństwa monitorujący przestrzeń przed oraz pod robotem, a aktualny stan pracy jest wyświetlany w czasie rzeczywistym na ekranie LCD.
+Projekt  pojazdu z napędem **4x4**, opartego na platformie **Arduino Uno**. Pojazd posiada system bezpieczeństwa monitorujący przestrzeń przed oraz pod robotem, a aktualny stan pracy jest wyświetlany w czasie rzeczywistym na ekranie LCD.
 
 ---
 
 ## 📸 Prezentacja auta
-![tu fota robota](IMG_4533.JPG)
+<img src="zdjecie_robota.jpg" alt="Mój gotowy robot" width="50%">
 
 ---
 
